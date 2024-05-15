@@ -1,0 +1,26 @@
+
+header{
+    display: flex;
+    justify-content: center;
+    
+}
+#logo{
+    width: 20rem;
+    margin-top: -5rem;
+    
+}
+#poster{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 30rem;
+    margin-top: -5rem;
+    border-radius: 20px;
+    box-shadow: 0px 0px 17px 6px grey;
+    
+    
+}
+audio{
+    width: 2rem;
+    
+}
